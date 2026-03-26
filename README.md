@@ -1,7 +1,7 @@
 # Mastering SVM Kernels: A Geometric Approach to Classification
-**Author:** [Your Name]  
-**Course:** Applied Data Science / Machine Learning  
-**Assignment:** ML Tutorial 1
+**Author:** Md Al Arafat  
+**Course:** Machine Learning and Neural Networks
+**Assignment:** Machine Learning Tutorial
 
 ---
 
